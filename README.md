@@ -24,9 +24,9 @@ This project is an AI-powered air gesture-based PC control system that allows us
 
 ✅ Multi-threading for video capture and gesture detection
 
-##**Installation**
+## **Installation**
 
-###**Prerequisites**
+### **Prerequisites**
 
 Ensure you have Python installed (Python 3.7+ recommended).
 
